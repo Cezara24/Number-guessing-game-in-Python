@@ -52,5 +52,3 @@ while not win and not lost:
     if count >= maximum:
         print(f"\nMaximum number of attempts reached.\nCorrect number: {correct_nr}\nGame over!")
         lost = True
-
-#nyaa
